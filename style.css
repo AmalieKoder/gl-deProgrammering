@@ -1,6 +1,7 @@
 body {
     margin: 0;
     height: 100vh;
+    background-color: whitesmoke;
 }
 
 /* Header */
@@ -31,6 +32,11 @@ body {
 
 /* Main */
 
+.colorText {
+    color: #386641;
+    font-weight: bolder;
+}
+
 .glødeLogo {
     height: 250px;
     width: 250px;
@@ -56,13 +62,11 @@ body {
 }
 
 .oppstartInfo {
-    border: 3px solid white;
    margin-top: 100px;
    margin-bottom: 120px;
 }
 
 .info {
-    border: 3px solid white;
     width: 850px;
     position: relative;
     right: 10rem;
