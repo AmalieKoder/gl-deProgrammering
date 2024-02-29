@@ -66,6 +66,7 @@ body {
     width: 850px;
     position: relative;
     right: 10rem;
+    font-weight: bolder;
 }
 
 .klasseImg {
@@ -156,7 +157,6 @@ and (max-device-width : 426px) {
     
     .cookie {
         font-style: italic;
-        display: none;
     }
     
     .kontact {
