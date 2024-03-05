@@ -280,6 +280,10 @@ and (max-device-width : 426px) {
     width: 250px;
    }
   */ 
+
+  .header {
+    width: 619px;
+  }
 }
 
   /* Media queria til Taplet */
