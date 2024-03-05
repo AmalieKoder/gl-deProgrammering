@@ -281,7 +281,7 @@ and (max-device-width : 426px) {
    }
   */ 
 
-  .header {
+  .headerMedia {
     width: 40em;
   }
 }
