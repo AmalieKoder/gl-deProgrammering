@@ -328,10 +328,19 @@ and (max-device-width : 426px) {
   .modul {
     font-size: 25px;
     width: 600px;
+    margin-left: 10rem;
+  }
+
+  .imgModulC {
+   margin-top: 90px;
+  }
+
+  .imgModulB {
+    margin-top: 70px;
   }
 
   .preKnowledge {
-    margin-top: 650px;
+    margin-top: 750px;
   }
 }
 
