@@ -282,7 +282,56 @@ and (max-device-width : 426px) {
   */ 
 
   .media {
-    width: 40em;
+    width: 41rem;
+  }
+
+  .position {
+    position: relative;
+    left: 6rem;
+  }
+
+  .oppstartInfo {
+    position: relative;
+    left: 6rem;
+  }
+
+  .introText {
+    font-size: 28px;
+    width: 250px;
+  }
+
+  .imgSplash {
+    height: 150px;
+  }
+
+  .info {
+    position: relative;
+    left: 6rem;
+    font-size: 30px;
+    width: 510px;
+  }
+
+  .class {
+    margin-left: 340px;
+  }
+
+  .classroomImg {
+    width: 40rem;
+  }
+
+  .modules {
+    flex-direction: column;
+    position: relative;
+    left: 6rem;
+  }
+
+  .modul {
+    font-size: 25px;
+    width: 600px;
+  }
+
+  .preKnowledge {
+    margin-top: 650px;
   }
 }
 
