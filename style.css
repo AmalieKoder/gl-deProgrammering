@@ -281,8 +281,16 @@ and (max-device-width : 426px) {
    }
   */ 
 
+  .glode {
+    font-size: 25px;
+  }
+
+  .contact {
+    font-size: 25px;
+  }
+
   .media {
-    width: 44rem;
+    width: 52rem;
   }
 
   .position {
@@ -341,7 +349,18 @@ and (max-device-width : 426px) {
 
   .preKnowledge {
     margin-top: 750px;
+    font-size: 34px;
+    width: 35rem;
   }
+
+.footer {
+    flex-direction: column;
+}
+
+  .emailInfo, .cookie, .glodeAS, a{
+    font-size: 25px;
+  }
+
 }
 
   /* Media queria til Taplet */
