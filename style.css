@@ -186,6 +186,7 @@ body {
 
 .preKnowledge {
     width: 70%;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -295,17 +296,19 @@ and (max-device-width : 426px) {
 
   .position {
     position: relative;
-    left: 6rem;
+    left: 16rem;
+    justify-content: center;
   }
 
   .oppstartInfo {
     position: relative;
-    left: 6rem;
+    left: 16rem;
+    flex-direction: column-reverse;
   }
 
   .introText {
-    font-size: 28px;
-    width: 250px;
+    font-size: 50px;
+    width: 650px;
   }
 
   .imgSplash {
@@ -314,17 +317,18 @@ and (max-device-width : 426px) {
 
   .info {
     position: relative;
-    left: 6rem;
-    font-size: 30px;
-    width: 510px;
+    left: 5rem;
+    font-size: 50px;
+    width: 650px;
+    justify-content: center;
   }
 
   .class {
-    margin-left: 340px;
+    margin-left: 440px;
   }
 
   .classroomImg {
-    width: 40rem;
+    width: 50rem;
   }
 
   .modules {
