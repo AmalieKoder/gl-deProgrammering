@@ -51,7 +51,7 @@ body {
     margin-bottom: 40px;
 }
 
-.imgSplash {
+.imgSplash .splashDetail {
     border: 1px solid black;
     border-radius: 20px;
     width: 450px;
@@ -233,7 +233,7 @@ and (max-device-width : 426px) {
   flex-direction: column-reverse;
  }
 
- .imgSplash {
+ .imgSplash .splashDetail {
    width: 300px;
    height: 300px;
  }
@@ -257,7 +257,8 @@ and (max-device-width : 426px) {
  }
 
  .preKnowledge {
-  margin-top: 580px;
+  margin-top: 595px;
+  font-size: 20px;
  }
 
  .footer {
