@@ -220,150 +220,50 @@ body {
 @media only screen
 and (min-device-width : 320px) 
 and (max-device-width : 426px) {
-/*
-     .glode {
-        font-style: italic;
-        font-size: 20px;
-        font-weight: bold;
-        position: relative;
-    }
-    
-    .cookie {
-        font-style: italic;
-    }
-    
-    .kontact {
-        font-style: italic;
-        display: none;
-    }
 
-   .main {
-    position: relative;
-    left: 2rem;
-    width: 17rem;
-   }
+ .glode {
+  font-size: 15px;
+ }
 
-   .imgModulA {
-    position: relative;
-    left: 3rem;
-    top: 1rem;
-    margin-top: 120px;
-   }
+ .position {
+  font-size: 25px;
+ }
 
-   .imgModulB {
-    position: relative;
-    left: 3rem;
-    top: 1rem;
-    margin-top: 20px;
-   }
+ .oppstartInfo {
+  flex-direction: column-reverse;
+ }
 
-   .imgModulC {
-    position: relative;
-    left: 3rem;
-    top: 1rem;
-    margin-top: 20px;
-   }
+ .imgSplash {
+   width: 300px;
+   height: 300px;
+ }
 
-   .info {
-    width: 250px;
-    position: relative;
-    left: 1rem;
-   }
+ .introText {
+  font-size: 15px;
+ }
 
-   .klasseImg {
-    height: 250px;
-    width: 250px;
-    position: relative;
-    left: 1rem;
-   }
+ .classroomImg {
+  width: 315px;
+  position: relative;
+  left: 0,5rem;
+ }
 
-   .kunnskapFerdigheter {
-    width: 250px;
-   }
-  */ 
+ .classStructure {
+  font-size: 25px;
+ }
 
-  .glode {
-    font-size: 25px;
-  }
+ .modules {
+  flex-direction: column;
+ }
 
-  .contact {
-    font-size: 25px;
-  }
+ .preKnowledge {
+  margin-top: 580px;
+ }
 
-  .media {
-    width: 52rem;
-  }
+ .footer {
+  flex-direction: column;
+ }
 
-  .position {
-    position: relative;
-    left: 16rem;
-    justify-content: center;
-  }
-
-  .oppstartInfo {
-    position: relative;
-    left: 16rem;
-    flex-direction: column-reverse;
-  }
-
-  .introText {
-    font-size: 50px;
-    width: 650px;
-  }
-
-  .imgSplash {
-    height: 150px;
-  }
-
-  .info {
-    position: relative;
-    left: 5rem;
-    font-size: 50px;
-    width: 650px;
-    justify-content: center;
-  }
-
-  .class {
-    margin-left: 440px;
-  }
-
-  .classroomImg {
-    width: 50rem;
-  }
-
-  .modules {
-    flex-direction: column;
-    position: relative;
-    left: 6rem;
-  }
-
-  .modul {
-    font-size: 25px;
-    width: 600px;
-    margin-left: 10rem;
-  }
-
-  .imgModulC {
-   margin-top: 90px;
-  }
-
-  .imgModulB {
-    margin-top: 70px;
-  }
-
-  .preKnowledge {
-    margin-top: 750px;
-    font-size: 34px;
-    width: 35rem;
-  }
-
-.footer {
-    flex-direction: column;
-}
-
-  .emailInfo, .cookie, .glodeAS, a{
-    font-size: 25px;
-  }
 
 }
 
